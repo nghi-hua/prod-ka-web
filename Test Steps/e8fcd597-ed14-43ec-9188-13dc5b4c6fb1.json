@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_resources-center_blog_automation-testing-tools",
-        "step 2: At Page_resources-center_blog_automation-testing-tools click on hyperlink_resources_center_blog_end_to_end_testing --> navigate to Page_resources-center_blog_graphql-testing",
-        "step 3: Add visual checkpoint at Page_resources-center_blog_graphql-testing"
-    ]
-}

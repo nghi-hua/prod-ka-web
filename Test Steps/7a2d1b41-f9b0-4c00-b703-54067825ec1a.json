@@ -1,7 +1,0 @@
-{
-    "steps": [
-        "step 1: At Page_test-automation-for-developers hover on span_object",
-        "step 2: At Page_test-automation-for-developers hover on div_object",
-        "step 3: Add visual checkpoint at Page_test-automation-for-developers"
-    ]
-}
