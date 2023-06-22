@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_home",
+        "step 2: At Page_home click on hyperlink_resources_center_blog_gpt_powered_ai_tes --> navigate to Page_resources-center_blog_gpt-powered-ai-test-StudioAssist-coding-companion",
+        "step 3: Add visual checkpoint at Page_resources-center_blog_gpt-powered-ai-test-StudioAssist-coding-companion"
+    ]
+}

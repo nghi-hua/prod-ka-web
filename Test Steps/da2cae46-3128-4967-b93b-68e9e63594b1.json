@@ -1,0 +1,7 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_community-hub",
+        "step 2: At Page_community-hub click on hyperlink_forum_katalon_com_t_introducing_studioa",
+        "step 3: Add visual checkpoint at Page_community-hub"
+    ]
+}
