@@ -1,0 +1,21 @@
+{
+    "steps": [
+        "step 1: Navigate to Page_freemium",
+        "step 2: At Page_freemium click on div_object --> navigate to Page_sign-up",
+        "step 3: At Page_sign-up click on input_signup_fullname",
+        "step 4: At Page_sign-up input on input_signup_fullname",
+        "step 5: At Page_sign-up click on input_signup_email",
+        "step 6: At Page_sign-up input on input_signup_email",
+        "step 7: At Page_sign-up input on input_signup_password",
+        "step 8: At Page_sign-up click on input_object",
+        "step 9: At Page_sign-up click on input_signup_password",
+        "step 10: At Page_sign-up input on input_signup_password",
+        "step 11: At Page_sign-up click on input_object",
+        "step 12: At Page_sign-up click on input_signup_fullname",
+        "step 13: At Page_sign-up input on input_signup_fullname",
+        "step 14: At Page_sign-up click on input_object",
+        "step 15: At Page_sign-up input on input_signup_fullname",
+        "step 16: At Page_sign-up click on input_object",
+        "step 17: Add visual checkpoint at Page_sign-up"
+    ]
+}

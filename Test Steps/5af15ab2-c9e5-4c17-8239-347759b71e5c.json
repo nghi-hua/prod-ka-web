@@ -1,8 +1,0 @@
-{
-    "steps": [
-        "step 1: Navigate to Page_home",
-        "step 2: At Page_home click on hyperlink_partners --> navigate to Page_partners",
-        "step 3: At Page_partners click on hyperlink_case_studies --> navigate to Page_case-studies",
-        "step 4: Add visual checkpoint at Page_case-studies"
-    ]
-}
